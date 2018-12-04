@@ -23,6 +23,7 @@ import numpy
 
 Two layers full connected Neural Network 
 
+
 4. Method
 
 Real time is used as label to predict time 
