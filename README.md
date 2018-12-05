@@ -21,7 +21,7 @@ import numpy
 
 3.Model
 
-Two layers full connected Neural Network 
+Two-layers full connected Neural Network 
 
 4.Method
 
